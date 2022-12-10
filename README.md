@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric Tudorica
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently learning Astro
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me siiu
 
