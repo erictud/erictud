@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Eric Tudorica
+- 👋 Hi, I’m Eric Tudorica, a computer science student
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Astro
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently learning web dev & programming in general
+- 💞️ I’m looking to collaborate open search projects
 - 📫 How to reach me siiu
 
 <!---
