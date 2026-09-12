@@ -7,8 +7,7 @@ Welcome to my GitHub profile. I'm a Computer Engineering student passionate abou
 - 🌱 **Currently learning:** Advanced Data Structures & Algorithms (DSA) and focusing on applying them to practical, real-world projects.
 - 💬 **Ask me about:** DSA, Linux, Computer Architecture, and Web Development.
 - 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/eric-tudoric%C4%83-08516020b/) or drop me an email at [contact@erictud.tech](mailto:contact@erictud.tech).
-- ⚡ **Check out my work:** Visit my live [Personal Portfolio](https://erictud.tech)..
-- ⚡ **Check out my work:** Visit my live [Personal Portfolio](https://erictud.github.io/portofolio/).
+- ⚡ **Check out my work:** Visit my live [Personal Portfolio](https://erictud.tech).
 
 ## 💻 Tech Stack & Tools
 
